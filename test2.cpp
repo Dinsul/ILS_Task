@@ -78,7 +78,7 @@ int main()
     // Удаляем по грузу
     removeLowCapacityCars(source, load);
 
-    if (source != result1)
+    if (source != result2)
     {
         std::cerr << "Удаление из контейтера по грузу работает неправильно." << std::endl;
 
