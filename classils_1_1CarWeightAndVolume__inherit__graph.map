@@ -1,0 +1,4 @@
+<map id="ils::CarWeightAndVolume" name="ils::CarWeightAndVolume">
+<area shape="rect" id="node2" href="$classils_1_1CarWeight.html" title="CarWeight класс автомобиля с грузоподъёмностью. " alt="" coords="42,80,149,107"/>
+<area shape="rect" id="node3" href="$classils_1_1Car.html" title="Car интерфейсный класс автомобиля. Все автомобил должны быть потомками этого класса. " alt="" coords="63,5,128,32"/>
+</map>
