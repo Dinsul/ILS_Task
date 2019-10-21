@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 
 #include "task3.hpp"
 #include "load.h"

@@ -4,11 +4,11 @@
 
 int main()
 {
-    IncludedExpansion<ils::CarWeightAndVolume> namedCar1{"CarWeight 1", 3, 8};
-    InheritanceExtension<ils::CarWeightAndVolume> namedCar2{"CarWeight 2", 5, 9};
+    IncludedExpansion<ils::CarWeightAndVolume> namedCar1{"Car 1", 3, 8};
+    InheritanceExtension<ils::CarWeightAndVolume> namedCar2{"Car 2", 5, 9};
 
-    IncludedExpansion<ils::Load> namedLoad1{"CarWeight 1", 8, 3};
-    InheritanceExtension<ils::Load> namedLoad2{"CarWeight 2", 6, 5};
+    IncludedExpansion<ils::Load> namedLoad1{"Load 1", 8, 3};
+    InheritanceExtension<ils::Load> namedLoad2{"Load 2", 6, 5};
 
     namedCar1.print();
     namedCar2.print();
