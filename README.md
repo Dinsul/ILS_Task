@@ -1,5 +1,7 @@
 ## Тестовое задание для ООО «Интеллектуальные Логистические Системы»
 
+[![Build Status](https://travis-ci.org/Dinsul/ILS_Task.svg?branch=master)](https://travis-ci.org/Dinsul/ILS_Task)
+
 ### Описание решения
 Задание было выполненно и протестировано с пременение следующих инструментов:
 - язык программирования – с++17
@@ -28,7 +30,8 @@
 - Сгенерируйте файлы для сборки `cmake .. -DCMAKE_BUILD_TYPE=Release`
 - Соберите проект `cmake --build .`
 - Запустите тесты `cmake --build . --target test`
-- Для генирации документации наберите `cmake --build . --target doc`
+- Для генерации документации наберите `cmake --build . --target doc`
+- Для генерации deb-пакета `cmake --build . --target packag`
 
 ### Предлагалось решить следующие задачи:
 

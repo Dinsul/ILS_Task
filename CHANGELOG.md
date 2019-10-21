@@ -10,7 +10,9 @@
 - Удалили лишнюю цель.
 - Проект прикреплён к travis-ci.
 - Добавленна цель сборки deb-пакета
-  - Репазиторий пакетов https://dl.bintray.com/alpha/Tasks trusty
+  - Репазиторий пакетов https://dl.bintray.com/alpha/Tasks trusty main
+- Добавил страницу mainpage в документацию
+- Добавил значёк travis в README
 
 
 ### 20.10.2019
